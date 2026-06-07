@@ -1,5 +1,9 @@
 # SIGEEST — Sistema de Gerenciamento de Estruturas
 
+<p align="center">
+  <img src="assets/sigeest-logo.svg" alt="SIGEEST — Sistema de Gerenciamento de Estruturas" width="420">
+</p>
+
 > Trabalho de Conclusão de Curso — Tecnólogo em Análise e Desenvolvimento de Sistemas
 > Apresentado à banca em **28/06/2018** · Conceito **9 (nove)** · Publicado no GitHub em **2019**
 
